@@ -130,7 +130,9 @@ ul li a:hover
 #container {
 		min-height:100%;
 	position:relative;}
-
+#stopka {
+	margin: 10;
+}
 
 
 
