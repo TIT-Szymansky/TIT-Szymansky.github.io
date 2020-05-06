@@ -8,6 +8,10 @@ background: url("tło4k.png");
 background-size: 100%; background-repeat: no-repeat; background-attachment: fixed;
 color: #000000;
 font-family: 'Oswald', sans-serif;
+margin:0; 
+padding:0;
+height:100%;
+        
 
 }
 
