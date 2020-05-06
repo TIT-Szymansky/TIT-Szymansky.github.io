@@ -114,6 +114,7 @@ ul li a:hover
 
 }
 #footer {
+	float: right;
 	position:absolute;
 	bottom:0;
 	width:100%;
