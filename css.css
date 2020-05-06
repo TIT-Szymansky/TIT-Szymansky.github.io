@@ -116,7 +116,7 @@ ul li a:hover
 		bottom:0;
 		width:100%;
 		height:150px
-		position: fixed; 
+		position: absolute;
 		right: 90%;
 }
 
